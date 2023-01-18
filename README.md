@@ -1,4 +1,4 @@
-# Prework Study Guide Webpage
+# Study Guide Webpage
 ## A guide to help a new developer as they begin their journey
 
 
